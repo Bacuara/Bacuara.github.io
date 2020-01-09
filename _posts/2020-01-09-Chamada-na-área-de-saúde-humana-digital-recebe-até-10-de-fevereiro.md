@@ -5,7 +5,7 @@ date:   2020-01-09 16:06:07 -0300
 author: 
 categorie: noticia
 source: Agência FAPESP
-source link: http://agencia.fapesp.br/pos-doutorado-em-redes-complexas-com-bolsa-da-fapesp/32281/
+source link: http://agencia.fapesp.br/chamada-na-area-de-saude-humana-digital-recebe-propostas-ate-10-de-fevereiro/32280/
 image: http://agencia.fapesp.br/agencia-novo/imagens/noticia/32280.jpg
 ---
 <p><strong>Agência FAPESP</strong> – A FAPESP recebe, até 10 de fevereiro de 2020, projetos de pesquisa em saúde humana digital no âmbito de uma chamada lançada pelo <strong><a href="http://www.fapesp.br/escience" target="_blank">Programa FAPESP de Pesquisa em eScience e Data Science</a></strong>. O total de recursos disponível é de R$ 6 milhões.</p>
