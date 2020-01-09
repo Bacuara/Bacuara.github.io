@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pós-doutorado em agroquímica com bolsa da FAPESP"
-date:   2020-01-08 16:06:07 -0300
+date:   2020-01-09 16:06:07 -0300
 author: 
 categorie: noticia
 source: Agência FAPESP
