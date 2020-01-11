@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Com turbinas eólicas offshore, Brasil pode se tornar ativo na corrida pela energia limpa"
-date: 2020-01-09T16:15:28-03:00
-author: None
+date:2020-01-09T16:15:28-03:00
+author:None
 categorie: noticia
-tag: exatas
+tag:exatas
 source: Jornal da USP
-source link: https://jornal.usp.br/ciencias/ciencias-exatas-e-da-terra/com-turbinas-eolicas-offshore-brasil-pode-se-tornar-ativo-na-corrida-pela-energia-limpa/
-image: https://jornal.usp.br/wp-content/uploads/2020/01/20200109_turbina_eolica_flutuante_1130px.jpg
+source link:https://jornal.usp.br/ciencias/ciencias-exatas-e-da-terra/com-turbinas-eolicas-offshore-brasil-pode-se-tornar-ativo-na-corrida-pela-energia-limpa/
+image:https://jornal.usp.br/wp-content/uploads/2020/01/20200109_turbina_eolica_flutuante_1130px.jpg
 ---
 ![](https://jornal.usp.br/wp-content/uploads/2020/01/20200109_turbina_eolica_flutuante_1130px.jpg)
 <p><em>Parque Eólico Beatrice Offshore, na Escócia – Foto: Divulgação/Beatrice Offshore Windfarm</em></p>
