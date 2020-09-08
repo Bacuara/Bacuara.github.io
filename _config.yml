@@ -7,15 +7,14 @@
 
 # Site settings
 title: Bacuara
-email: bacuara@algumaocisa.com
+email: iniciativa.bacuara@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Alguma descrição pro site blablablablabd asdhewuhfe onervreovh ieruf 
-  pimenta cebola jweiofhe defer vrtbr lalalal sdkmervme
+Scientia Vinces
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bacuara.github.io" # the base hostname & protocol for your site
-twitter_username: bacuara
-github_username:  bacuara
-facebook_username: bacuara
+twitter_username: bacuara1
+github_username:  bacuara1
+facebook_username: bacuara1
 
 # Build settings
 markdown: kramdown
